@@ -1,12 +1,28 @@
 #################
 IDEAS
 
+2hz heartbeat/ pose/
+
+simulation gazebo
+
+qgroundcontrol
+
+rviz
+
+focus on offboard mode
+
+hitl/sitl
+
+custom messages
+
 #################
 IMAGES
 
 CPU usage in hardware tab
 
 description of micro agent
+
+motive optitrack
 
 #################
 REFERENCE
@@ -20,6 +36,8 @@ custom firmware info to repo
 software ros, message link a msg repo
 
 software ubuntu reference to vm/docker
+
+in gui description, goto ned frame reference to NED
 
 ################
 EXTRA
