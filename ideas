@@ -15,6 +15,13 @@ hitl/sitl
 
 custom messages
 
+thesis organization, sim o deployment prima
+
+cpu ram utilization (in flight review)
+
+
+quality of live section
+
 #################
 IMAGES
 
@@ -38,6 +45,9 @@ software ros, message link a msg repo
 software ubuntu reference to vm/docker
 
 in gui description, goto ned frame reference to NED
+
+Hardware commander reference to ubutnu 22 in software
+Hardware commander docker reference
 
 ################
 EXTRA
