@@ -1,35 +1,35 @@
 #################
 IDEAS
 
-2hz heartbeat/ pose/
+	2hz heartbeat/ pose/
 
-simulation gazebo
+	simulation gazebo
 
-qgroundcontrol
+	qgroundcontrol
 
-rviz
+	rviz
 
-focus on offboard mode
+	focus on offboard mode
 
-hitl/sitl
+	hitl/sitl
 
-custom messages
+	custom messages
 
-thesis organization, sim o deployment prima
+/////7thesis organization, sim o deployment prima
 
-cpu ram utilization (in flight review)
+//////cpu ram utilization (in flight review)
 
 
-quality of live section
+///////quality of live section
 
 #################
 IMAGES
 
-CPU usage in hardware tab
+//////CPU usage in hardware tab
 
-description of micro agent
+	description of micro agent
 
-motive optitrack
+	motive optitrack
 
 #################
 REFERENCE
@@ -50,6 +50,8 @@ Hardware commander reference to ubutnu 22 in software
 Hardware commander docker reference
 
 gui.py, x11 ass through reference to code
+
+in chapter 4 flying, reference to flight logic https://docs.px4.io/main/en/flight_stack/controller_diagrams.html
 
 ################
 EXTRA
