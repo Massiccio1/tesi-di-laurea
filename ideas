@@ -49,6 +49,8 @@ in gui description, goto ned frame reference to NED
 Hardware commander reference to ubutnu 22 in software
 Hardware commander docker reference
 
+gui.py, x11 ass through reference to code
+
 ################
 EXTRA
 
